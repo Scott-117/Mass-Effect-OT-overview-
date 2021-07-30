@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+/* CSS comments */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gold;
+}
+
+h1, h2 {
+    color: rgb(53, 144, 144);
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+p {
+    padding: 10px;
+    margin: 25px;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+/* p {
+    padding: 10px 100px 10px;
+    margin: 25px 90px 25px;
+} */
+
+.large {
+    font-size: 50px;
+}
+
+.pinkBackground {
+    background-color: pink;
+}
+
+.center {
+    text-align: center;
+}
+
+/* .largeCenter {
+    font-size: 50px;
+    text-align: center;
+} */
+
+#specialPink {
+    background-color: magenta;
+}
+
+#resizeMe {
+    width: 70%;
+}
